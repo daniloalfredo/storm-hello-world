@@ -1,0 +1,4 @@
+worker-id: 5f01ce54-c0bb-490b-9ac4-13e239ff35c8
+logs.users: []
+logs.groups: []
+topology.submitter.user: dams
